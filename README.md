@@ -8,5 +8,5 @@ Tech Stack:
 > Javascript
 
 Installation
-1. git clone "https://github.com/jahnavis2003/WeatherApp.git"
+1. git clone https://github.com/jahnavis2003/WeatherApp.git
 2. open the .html file
