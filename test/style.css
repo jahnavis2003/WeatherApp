@@ -1,0 +1,33 @@
+.full-background{
+    /* background-color: black; */
+    background-image: url("./bg14.jpg");
+    background-repeat: no-repeat;
+    /* width: 100vw; */
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.box{
+    background-color: rgba(0, 0, 0, 0.75);
+    color: white;
+    height: 40vh;
+    border-radius: 20px;
+}
+
+.search-icon{
+    height: 4vh;
+    width: 4vh;
+    background-color: rgba(34, 34, 34, 0.758);
+    border-radius: 100%;
+    /* padding: 8px; */
+}
+
+.input{
+    outline: none;
+    border-radius: 30px;
+    border: none;
+    padding: 5px;
+    background-color: rgba(49, 49, 49, 0.4);
+    width: 34vh;
+}
