@@ -6,3 +6,7 @@ Tech Stack:
 > HTML, 
 > CSS, 
 > Javascript
+
+Installation
+1. git clone ""
+2. open the .html file
